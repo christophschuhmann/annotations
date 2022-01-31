@@ -1,4 +1,5 @@
 [
+    "Describe in one sentence what the person looks like.",
     "Age",
     "Gender (male, female, transgener male, transgender female)",
     "Skin color",
@@ -24,8 +25,7 @@
     "Describe the legs of the person (anatomically and clothing).",
     "Describe the feet of the person (anatomically and clothing).",
     "How healthy and athletic does the person appear (incl. body type)? (E.g. skinny, slim, athletic, tall, small, slightly/very overweight, etc.)",
-    "Describe in one sentence what the person looks like.",
-    "Which emoticons, thoughts and associations does this person as a whole evokes in you?",
+    "Which emotions, thoughts and associations does this person as a whole evokes in you?",
     "How beautiful do you find this person (not sexual)? How pleasant is person to look at in an aesthetic sense?",
     "How attractive do you find this person (sexually)?",
     "How friendly does this person seem to you? (E.g. very unfriendly, unfriendly, slightly unfriendly, neutral slightly friendly, friendly, very friendly)",
@@ -33,7 +33,7 @@
     "Age of the annotator",
     "Gender of the annotator",
     "Sexual orientation of the annotator",
-    "Does this image reinforce or weaken any stereotypes or prejudices? If so, which ones and why?",
+    "Do you think this image reinforces or weakens any stereotypes or prejudices? If so, which ones and why?",
     "How positive or negative could it be to appear like this on the Internet? (E.g. very negative, negative, slightly negative, neutral, slightly positive, positive, very positive)",
     "How positively or negatively do you think this portrayal of the person shown affects society?" 
 ]
