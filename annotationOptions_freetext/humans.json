@@ -34,5 +34,6 @@
     "Gender of the annotator",
     "Sexual orientation of the annotator",
     "Does this image reinforce or weaken any stereotypes or prejudices? If so, which ones and why?",
-    "How positively or negatively do you think this portrayal of the person shown affects society? How positive or negative could it be to appear like this on the Internet? (E.g. very negative, negative, slightly negative, neutral, slightly positive, positive, very positive)",
+    "How positive or negative could it be to appear like this on the Internet? (E.g. very negative, negative, slightly negative, neutral, slightly positive, positive, very positive)",
+    "How positively or negatively do you think this portrayal of the person shown affects society?" 
 ]
